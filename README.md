@@ -10,7 +10,7 @@
 - **LDR (Light Sensor)**: Monitors the light intensity to ensure plants receive adequate light.
     <img src="https://images-eu.ssl-images-amazon.com/images/I/61aojoXP0QL._AC_UL600_SR600,600_.jpg" width="40%" />  
 - **LM35 (Temperature Sensor)**: Records the ambient temperature to maintain ideal growing conditions.
-
+      <img src="https://images.tokopedia.net/img/cache/700/product-1/2018/12/31/7267218/7267218_44a908b7-691f-4630-9dd3-14b5db984cac_500_500.jpg" width="40%" />  
 ## Actuator
 
 - **Water Pump**: Automatically waters plants based on the soil moisture levels detected.
