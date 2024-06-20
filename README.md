@@ -1,7 +1,7 @@
 # Internet-of-Things
 <img src="https://github.com/WasiatD/Internet-of-Things/blob/main/Screenshot%202024-06-16%20142145.png" width="40%" />  
 
-**# Sensory**
+## Sensors
 
 -Soil Moisture 
 
@@ -9,10 +9,10 @@
 
 -LM35 (Temperature Sensor)
 
-**# Actuator**
+## Actuator
 
 -Water Pump
 
-**# Microcontroller**
+## Microcontroller
 
 -ESP32
