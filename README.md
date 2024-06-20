@@ -15,6 +15,8 @@
 
 - **Water Pump**: Automatically waters plants based on the soil moisture levels detected.
 
+  <img src="https://m.media-amazon.com/images/I/510pzzgH-zL._AC_UF894,1000_QL80_.jpg" width="40%" />  
+
 ## Microcontroller
 
 - **ESP32**: A powerful microcontroller used to process sensor data and control the actuator, providing connectivity for remote monitoring and control.
