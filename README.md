@@ -4,7 +4,9 @@
 #Sensory
 
 -Soil Moisture 
+
 -LDR (Light Sensor)
+
 -LM35 (Temperature Sensor)
 
 #Actuator
