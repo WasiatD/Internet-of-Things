@@ -8,6 +8,7 @@
 - **Soil Moisture Sensor**: Measures the moisture content in the soil to ensure optimal watering levels.
   <img src="https://m.media-amazon.com/images/I/61pScDFgHyS.jpg" width="40%" />  
 - **LDR (Light Sensor)**: Monitors the light intensity to ensure plants receive adequate light.
+    <img src="https://images-eu.ssl-images-amazon.com/images/I/61aojoXP0QL._AC_UL600_SR600,600_.jpg" width="40%" />  
 - **LM35 (Temperature Sensor)**: Records the ambient temperature to maintain ideal growing conditions.
 
 ## Actuator
