@@ -18,6 +18,7 @@
 ## Microcontroller
 
 - **ESP32**: A powerful microcontroller used to process sensor data and control the actuator, providing connectivity for remote monitoring and control.
+  <img src="https://raharja.ac.id/wp-content/uploads/2021/11/ESP32-Module.png" width="40%" />  
 
 ## System Specifications
 
