@@ -6,7 +6,7 @@
 ## Sensors
 
 - **Soil Moisture Sensor**: Measures the moisture content in the soil to ensure optimal watering levels.
-  <img src="[[https://github.com/WasiatD/Internet-of-Things/blob/d004f344c30fbfdf679d596c1cf52eed86b421c1/Diagram%20Block.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.indotrading.com%2Frytechindonesia1%2Fsoil-moisture-sensor-transducer-kelembaban-tanah-hygrometer-humidity-p943308.aspx&psig=AOvVaw3unbmLvl4zDh_xX9GpCR6x&ust=1718964546780000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD5vIr46YYDFQAAAAAdAAAAABAI)](https://m.media-amazon.com/images/I/61pScDFgHyS.jpg)" width="40%" />  
+  <img src="https://m.media-amazon.com/images/I/61pScDFgHyS.jpg" width="40%" />  
 - **LDR (Light Sensor)**: Monitors the light intensity to ensure plants receive adequate light.
 - **LM35 (Temperature Sensor)**: Records the ambient temperature to maintain ideal growing conditions.
 
