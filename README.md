@@ -1,5 +1,7 @@
 # Internet-of-Things
-<img src="https://github.com/WasiatD/Internet-of-Things/blob/main/Screenshot%202024-06-16%20142145.png" width="40%" />  
+
+## Block Diagram
+<img src="https://github.com/WasiatD/Internet-of-Things/blob/d004f344c30fbfdf679d596c1cf52eed86b421c1/Diagram%20Block.png" width="40%" />  
 
 ## Sensors
 
